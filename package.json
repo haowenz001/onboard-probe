@@ -1,0 +1,9 @@
+{
+  "name": "onboard-probe",
+  "version": "1.0.0",
+  "private": false,
+  "description": "bot \u81ea\u52a8\u5316\u63a5\u5165\u8bd5\u9a8c\u4ed3",
+  "scripts": {
+    "test": "node -e \"console.log('ok')\""
+  }
+}
